@@ -1,5 +1,5 @@
 # hello-world
-My firts repository that I've made
+My first repository that I've made
 
 Hi my name is Carlos
 
